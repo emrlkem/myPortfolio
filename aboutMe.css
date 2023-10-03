@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+}
+
+* p {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
